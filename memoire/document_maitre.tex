@@ -25,6 +25,7 @@
 		%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
 		\usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}
 		\addbibresource{./bibmemoire.bib} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
+		% NB : Etant donné que nous avions ajouté le style de l'école à nos fichiers locaux dont je n'ai pas eu besoin de faire ce lien. 
 		\defbibheading{stylebib}{\subsection*{#1}} %Si l'on veut changer le titre de la/les bibliographie(s)
 		
 	%%% Non utilisés %%%
@@ -40,6 +41,8 @@
 		\usepackage{caption} % Permet la modification de la mise en page des légendes.
 		\usepackage{pdfpages} %Permet d'ajouter un pdf
 		\usepackage{enumitem} % changer l'interligne entre les items de itemize
+		\usepackage{tabularx} % Insertion de tableaux avec des colonnes plus flexibles que tabular. 
+		\usepackage{longtable} % Permet d'avoir des tableaux qui dépassent sur plusieurs pages. A noter qu'il n'est pas possible d'avoir une tableau tabularx ou longtable, il faut choisir.
 
 
 %%%% CONFIGURATION DE MISE EN PAGE %%%%
@@ -136,25 +139,22 @@
 	%	description={}
 	%}
 
-
 %%%% DÉFINITION DES COMMANDES ET ENVIRONNMENTS %%%%
 
-	%Bloc de citation
-	%COMMENTER
-	\newenvironment{miseenavant}
-	{
-		\begin{list}{}{
-				\setlength{\rightmargin}{0pt}
-				\setlength{\listparindent}{0pt}
-				\setlength{\itemsep}{0pt}
-				\setlength{\parsep}{0pt}
-			}
-			\item\relax\itshape
-		}
-		{
-		\end{list}
-	}
+% Transcription %
+% Ces commandes ont été réalisée pour minimisée les fautes de frappes sur les renvois à mes annexes. Elles sont très répétitives et les fautes de frappes sont courantes %
 
+	\newcommand{\PL}% Nom de la commande
+		{Pascal Lebeurier} % Ce qu'affiche cette commande 
+	
+	\newcommand{\AH}{Arthur Hénaff}
+	
+	\newcommand{\DA}{la documentaliste anonymisée}
+
+	\newcommand{\renvoientretien}[2]{\footnote{Voir entretien de #1 sur #2. Annexe \ref{ann:transcriptions}, \nameref{ann:transcriptions}, p. \pageref{ann:transcriptions}.}}
+	% Créer une commande qui me crée une note de bas de page pour les transcriptions. Les arguments sont 1 : Nom de l'intervenant, 2 : Sujet abordé (car les entretiens sont découpés thématiquements), 3 : Label de l'annexe. 
+	
+	\newcommand{\renvoiannexe}[1]{\footnote{Voir Annexe \ref{#1}, \nameref{#1}, p. \pageref{#1}}.} % Même procédé pour une annexe simple pour éviter de réecrire plusieurs fois le label de l'annexe. 
 
 %%%% INFORMATIONS POUR LA PAGE DE TITRE %%%%
  
@@ -408,6 +408,7 @@
 \phantomsection
 \addcontentsline{toc}{chapter}{Annexes}
 
+\let\oldaddcontentsline\addcontentsline 
 \renewcommand{\addcontentsline}[3]{}
 
 	\chapter[Transcriptions des entretiens avec des professionnels de l'INA]{Entretiens avec des professionnels de l'INA}
@@ -450,7 +451,7 @@
 \backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
 
 %\printindex
-%\printglossaries[title=Glossaire]
+\printglossaries
 %\listoftables
 %\listoffigures
 \tableofcontents
