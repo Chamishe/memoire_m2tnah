@@ -1,0 +1,71 @@
+\xpg@aux {}{french}
+\contentsline {chapter}{Résumé}{i}{chapter*.1}%
+\contentsline {chapter}{Remerciements}{iii}{chapter*.2}%
+\contentsline {chapter}{Bibliographie}{v}{chapter*.3}%
+\contentsline {chapter}{Introduction}{xi}{chapter*.13}%
+\contentsline {part}{I\hspace {1em}Accessibilité aux collections patrimoniales}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Nouveaux profils et nouvelles habitudes de consultation des collections}{3}{chapter.1}%
+\contentsline {section}{\numberline {I.}Le grand public : le petit nouveau}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.}Le dépôt légal, déclencheur de l'accessibilité aux collections patrimoniales}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {2.}Sites web et réseaux sociaux : amener le patrimoine au grand public}{4}{subsection.1.1.2}%
+\contentsline {section}{\numberline {II.}Les chercheurs : évolution de la recherche}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.}L'accessibilité commence par l'acceptation de la pertinence de la recherche}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {2.}Le service de l'INAthèque}{8}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {3.}Habitudes de consultation des collections}{10}{subsection.1.2.3}%
+\contentsline {section}{\numberline {III.}L'expertise du documentaliste : apprendre, transmettre, s'adapter}{10}{section.1.3}%
+\contentsline {subsection}{\numberline {1.}Connaissances de outils de consultation et de production des bases de données}{11}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {2.}L'expertise du documentaliste}{12}{subsection.1.3.2}%
+\contentsline {section}{\numberline {IV.}La spécificité de l'INA : les professionnels de l'audiovisuel}{13}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Impact de l'hétérogénérité des données sur les pratiques des publics des institutions patrimoniales}{16}{chapter.2}%
+\contentsline {section}{\numberline {I.}Manque de connaissance des périmètres de l'INA}{16}{section.2.1}%
+\contentsline {section}{\numberline {II.}Un problème de qualité}{17}{section.2.2}%
+\contentsline {section}{\numberline {III.}Nouveau mode de consommation des informations}{18}{section.2.3}%
+\contentsline {subsection}{\numberline {1.}Nouvelles disciplines d'étude}{18}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.}De nouveaux publics}{18}{subsection.2.3.2}%
+\contentsline {part}{II\hspace {1em}De quel contexte sont issues ces données hétérogènes ?}{21}{part.2}%
+\contentsline {chapter}{\numberline {3}Un contexte social en mouvement}{23}{chapter.3}%
+\contentsline {section}{\numberline {I.}Mise en place d'un cadre légal}{23}{section.3.1}%
+\contentsline {subsection}{\numberline {1.}Avant l'INA, les cinémathécaires}{24}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {2.}Premières années d'existence : la commercialisation des images}{25}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.}Le dépôt légal}{25}{subsection.3.1.3}%
+\contentsline {section}{\numberline {II.}Délimitation de la conservation}{28}{section.3.2}%
+\contentsline {subsection}{\numberline {1.}La reprise d'antériorité}{28}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {2.}Les types de traitements documentaire}{32}{subsection.3.2.2}%
+\contentsline {section}{\numberline {III.}Impact des changements institutionnels : le facteur humain dans les données}{34}{section.3.3}%
+\contentsline {subsection}{\numberline {1.}Des données de descriptions divergentes}{35}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {2.}Un fossé entre les services de conservation}{36}{subsection.3.3.2}%
+\contentsline {section}{\numberline {IV.}Impact du contexte économique}{37}{section.3.4}%
+\contentsline {subsection}{\numberline {1.}Économie de matériaux}{37}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {2.}Le stock Gambais}{38}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.}Un budget contraignant}{38}{subsection.3.4.3}%
+\contentsline {chapter}{\numberline {4}Une informatisation du patrimoine}{40}{chapter.4}%
+\contentsline {section}{\numberline {I.}Documentation et informatisation : discipline historique et nouvelles technologies}{40}{section.4.1}%
+\contentsline {subsection}{\numberline {1.}Histoire de la documentation}{40}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {2.}Prise en main de la documentation par l'informatique}{43}{subsection.4.1.2}%
+\contentsline {section}{\numberline {II.}Deux logiciels, deux objectifs, une institution}{45}{section.4.2}%
+\contentsline {subsection}{\numberline {1.}Les outils du dépôts légal : du sur mesure pour la nouvelle mission patrimoniale}{45}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {2.}La recherche au dépôt légal et dans les archives professionnelles}{46}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {3.}Le lac de données}{47}{subsection.4.2.3}%
+\contentsline {section}{\numberline {III.}Trop de données tue la données ?}{47}{section.4.3}%
+\contentsline {section}{\numberline {IV.}L'impact de l'IA sur le traitement documentaire}{50}{section.4.4}%
+\contentsline {subsection}{\numberline {1.}L'IA et l'INA}{50}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {2.}l'IA et les documentalistes}{51}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {3.}L'IA et l'accessibilité aux collections}{52}{subsection.4.4.3}%
+\contentsline {part}{III\hspace {1em}Conjuguer découvrabilité et recherche précise}{57}{part.3}%
+\contentsline {chapter}{\numberline {5}Permettre la découvrabilité}{59}{chapter.5}%
+\contentsline {section}{\numberline {I.}Cartographier les données}{59}{section.5.1}%
+\contentsline {subsection}{\numberline {1.}La découvrabilité dans les institutions patrimoniales}{59}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {2.}Cartographier les données}{60}{subsection.5.1.2}%
+\contentsline {section}{\numberline {II.}Expliquer les données}{66}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Permettre la recherche}{68}{chapter.6}%
+\contentsline {section}{\numberline {I.}L'expérience utilisateur}{68}{section.6.1}%
+\contentsline {subsection}{\numberline {1.}Garder l'attention de l'utilisateur et lui donner envie de revenir}{68}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {2.}Garantir la lisibilité des informations : les datavisualisations}{70}{subsection.6.1.2}%
+\contentsline {section}{\numberline {II.}Personnaliser la recherche}{71}{section.6.2}%
+\contentsline {subsection}{\numberline {1.}Filtres de traitement documentaire}{71}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {2.}Filtres de documents}{72}{subsection.6.2.2}%
+\contentsline {section}{\numberline {III.}Situer un nouvel outil dans une structure institutionnelle et technologique en pleine transition documentaire}{73}{section.6.3}%
+\contentsline {subsection}{\numberline {1.}Une question de base de données}{73}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {2.}Manque de pertinence pour tous les publics}{73}{subsection.6.3.2}%
+\contentsline {chapter}{Conclusion}{76}{chapter*.29}%
+\contentsline {chapter}{Annexes}{77}{section*.30}%

@@ -1,0 +1,30 @@
+Toujours pour garantir cette expérience utilisateur, il est nécessaire d'ouvrir la recherche à plusieurs clefs d'exploration des données, de ne pas restreindre la recherche et anticiper les recherches des utilisateurs. Pour ce faire, l'utilisation des filtres prend une grand importance. Ils permettent d'éviter le phénomène de \enquote{surabondance de choix} généré par une quantité massive de données. Ce phénomène paralyse l'utilisateur dans ses choix\footcite[242]{farchy2023}, ou dans notre cas créer une \enquote{fatigue muséale} qui appliquée au numérique peut être identifié comme une fatigue mentale devant une quantité massive de données apportant plus d'informations qu'il n'est impossible d'appréhender\footcite[Notion développée dans :][5]{griveau2024}, ce qui est l'opposé de ce que nous souhaitons faire ici. Pour faciliter la recherche, nous avons divisé les filtres appliqués en deux.  
+
+\subsection{Filtres de traitement documentaire}
+
+Premièrement, les utilisateurs disposent en page d'accueil d'une médiation du traitement documentaire à l'INA, mais il est contre-productif de construire notre outil en partant du principe que ces informations seront lus, comprises et retenus par les utilisateurs. Cela sera le cas pour les documentalistes, mais pour un chercheur il serait frustrant de ne pas pouvoir accéder aux fonctionnalités de cet outil uniquement par l'apprentissage de notions assez précises de la documentation. L'expérience utilisateur serait compromises car le chercheur pourrait être réticent à intégrer cet outil à ses habitudes. Nous avons donc opté par l'adoption d'une recherche par filtre. Pour que les utilisateurs n'aient pas à retenir quel traitement contient quelles champs, nous avons établi qu'ils pourraient, en remplacement, sélectionner les informations qu'ils souhaitent trouver parmi : 
+\begin{itemize}
+	\item Descripteurs/mots-clés
+	\item Chapeau : le terme étant un peu trop opaque pour un externe à l'INA, ce choix sera remplacé par description des images diffusées
+	\item Résumé par séquence
+	\item Liste de tous les intervenants
+	\item Description plan par plan
+\end{itemize}
+Ces filtres correspondent aux champs trouvés dans les différents types de traitement documentaire. Les résultats fourniront en conséquence les notices pour lesquels ces champs contiennent des données sans qu'il n'ait à intégrer que cela correspond à tel type de notices. 
+
+\subsection{Filtres de documents}
+
+Il sera également possible de réaliser cette recherche grâce à une barre de recherche qui cherchera la chaîne de caractère demandée dans le titre du document, de sa collection (dans ce cas, le terme de collection désigne le champs de la notice qui correspond au nom de la \enquote{série} au sein desquels il y a plusieurs \enquote{épisodes}) ou de sa tranche horaire. Nous avons en effet réduit les résultats à ces typologies de notices car chercher un résultat plus précis généreraient beaucoup de bruit et ne serait pas pertinent pour notre outil. Il ne sert à rien d'utiliser un outil tiers pour chercher une information que l'on retrouve déjà dans l'outil de consultation \enquote{Hyperbase}, notre objectif est de rassembler plusieurs données pour en faire ressortir des informations, pas d'afficher les mêmes informations mais sur un outil différent. 
+
+Mais comme nous souhaitons offrir plusieurs clefs d'entrée dans nos données, sans restreindre la recherche, nous offrons également la possibilité de rechercher un contenu par l'utilisation de filtre. Les chercheurs n'ont pas toujours un titre d'émission précis en tête. De cette façon, si les filtres que nous avons décrit précédemment déterminaient quels champs l'utilisateur souhaitait voir, cette catégorie de filtre permet de choisir ce que les champs donnés doivent (ou peuvent selon leur choix) contenir. Quand les possibilités ne sont pas trop nombreux, le choix se fait par l'intermédiaire d'un menu déroulant affichant les champs possibles. Par exemple, pour la recherche par chaîne les filtres peuvent être entre autres : 
+\begin{itemize}
+	\item mode de transmission\footnote{A noter que dans ce cas cette information l'information recherchée n'est pas un champs mais plutôt quelle base de données interroger étant que les bases de données du dépôt légal sont divisés en chaîne hertziennes et satellites}. 
+	\item Dates de diffusions : date de début, date de fin ou les deux.
+\end{itemize}
+Et pour les programmes : 
+\begin{itemize}
+	\item Genre : documentaire, journal télévisé...
+	\item Chaîne de diffusion, de production 
+	\item dates de diffusions
+\end{itemize}
+Cet outil doit libérer l'utilisateur du choix d'avoir à demander une chaîne de caractères précises dans un champs précis. Il est libre de savoir exactement ce qu'il recherche, comme en avoir une vague idée et de préciser ou agrandir sa demande en fonction des résultats. 

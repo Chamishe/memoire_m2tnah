@@ -1,0 +1,2148 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{alquier2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e988c66b33ab5a56d0bbc90954aa7c7b}{%
+           family={Alquier},
+           familyi={A\bibinitperiod},
+           given={Eléonore},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12f742b4208879084d5f82e621ae9aad}{%
+           family={Carrive},
+           familyi={C\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b20c308e2d32bf38715f7a926d67afd3}{%
+           family={Lalande},
+           familyi={L\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JLE}%
+      }
+      \strng{namehash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{fullhash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{fullhashraw}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{bibnamehash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{authorbibnamehash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{authornamehash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{authorfullhash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{authorfullhashraw}{dd28babf5e2bebf66b8401f31ef50eab}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Établissement public français consacré à la conservation du patrimoine audiovisuel, l’Institut national de l’audiovisuel (Ina) s’est positionné dès les années 1990 comme une structure documentaire résolument numérique. La conception d’interfaces de consultation adaptées aux différents besoins a permis de balayer un spectre large, des professionnels de l’audiovisuel (journalistes, producteurs), aux chercheurs du monde académique. Néanmoins, la refonte du modèle de données documentaires de l’Ina interroge aujourd’hui l’évolution des pratiques documentaires. Après une présentation institutionnelle (section 1) et historique (section 2) de l’Ina, cet article se propose ainsi d’étudier l’évolution des usagers et de leurs pratiques (section 3), en les confrontant à deux cas pratiques d’automatisation : la segmentation automatique d’enregistrements vidéos d’une part (section 4), et l’enrichissement des métadonnées par le biais du liage avec le Linked Open Data d’autre part (section 5).}
+      \field{chapter}{Info, Communication}
+      \field{issn}{1279-5127}
+      \field{journaltitle}{Document numérique}
+      \field{langid}{french}
+      \field{number}{2}
+      \field{shorttitle}{{Production documentaire et usages}}
+      \field{title}{{Production documentaire et usages:L’automatisation dans les outils de consultation et de documentation de l’Institut national de l’audiovisuel (Ina)}}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{20}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{115\bibrangedash 136}
+      \range{pages}{22}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/NA9PXNNE/Alquier et al. - 2017 - Production documentaire et usagesL’automatisation dans les outils de consultation et de documentati.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://stm.cairn.info/revue-document-numerique-2017-2-page-115
+      \endverb
+      \verb{url}
+      \verb https://stm.cairn.info/revue-document-numerique-2017-2-page-115
+      \endverb
+      \keyw{Classé,ina,Lu}
+    \endentry
+    \entry{dataina}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Observez la couverture médiatique des personnalités, les termes les plus mentionnés ou la distribution du temps d’antenne dans les médias français, grâce à l'intelligence artificielle et aux données de l'INA.}
+      \field{journaltitle}{data.ina.fr}
+      \field{langid}{french}
+      \field{title}{{Analyse des médias français par la donnée et l’IA}}
+      \field{urlday}{8}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/TPZB6879/data.ina.fr.html
+      \endverb
+      \verb{urlraw}
+      \verb https://data.ina.fr/
+      \endverb
+      \verb{url}
+      \verb https://data.ina.fr/
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{bassaïstéguy2025}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c74a763580081cac935beea3529421ee}{%
+           family={Bassaïstéguy},
+           familyi={B\bibinitperiod},
+           given={Sidonie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Ecole Nationale des Chartes - PSL}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{c74a763580081cac935beea3529421ee}
+      \strng{fullhash}{c74a763580081cac935beea3529421ee}
+      \strng{fullhashraw}{c74a763580081cac935beea3529421ee}
+      \strng{bibnamehash}{c74a763580081cac935beea3529421ee}
+      \strng{authorbibnamehash}{c74a763580081cac935beea3529421ee}
+      \strng{authornamehash}{c74a763580081cac935beea3529421ee}
+      \strng{authorfullhash}{c74a763580081cac935beea3529421ee}
+      \strng{authorfullhashraw}{c74a763580081cac935beea3529421ee}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{Le médium, c'est la mémoire : archivages du document à l'Institut national de l'Audiovisuel}}
+      \field{type}{{Mémoire}}
+      \field{year}{2025}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/QBEJAVC2/Bassaïstéguy - ÉCOLE NATIONALE DES CHARTES UNIVERSITÉ PARIS, SCIENCES & LETTRES.pdf
+      \endverb
+      \keyw{Classé,ina,Lu}
+    \endentry
+    \entry{bermès2024}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
+           family={Bermès},
+           familyi={B\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {École nationale des chartes-PSL}%
+      }
+      \strng{namehash}{e030e2b20e092b3fabbe90ad5fc15c0d}
+      \strng{fullhash}{e030e2b20e092b3fabbe90ad5fc15c0d}
+      \strng{fullhashraw}{e030e2b20e092b3fabbe90ad5fc15c0d}
+      \strng{bibnamehash}{e030e2b20e092b3fabbe90ad5fc15c0d}
+      \strng{authorbibnamehash}{e030e2b20e092b3fabbe90ad5fc15c0d}
+      \strng{authornamehash}{e030e2b20e092b3fabbe90ad5fc15c0d}
+      \strng{authorfullhash}{e030e2b20e092b3fabbe90ad5fc15c0d}
+      \strng{authorfullhashraw}{e030e2b20e092b3fabbe90ad5fc15c0d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Depuis plus de trente ans, documents et données numériques irriguent la société et engendrent de profondes transformations économiques, sociales et culturelles. En faisant leur entrée dans les collections des bibliothèques, archives et musées, ces nouveaux objets suscitent la question de l'émergence d'un patrimoine numérique. À travers une approche transdisciplinaire mêlant histoire des institutions patrimoniales, sciences de l'information, mais aussi des éléments de sociologie et d'anthropologie, Emmanuelle Bermès retrace le processus de patrimonialisation des collections numériques et s'interroge sur les engouements, les controverses et les initiatives qu'elles suscitent. À l'heure de la mise en données du monde et de l'intelligence artificielle, la connaissance de notre patrimoine numérique et de son histoire est une clef pour comprendre la culture numérique dans laquelle nous sommes désormais immergés. Quelle place les émotions tiennent-elles dans un univers régi par les écrans, les réseaux, les algorithmes ? Qu'avons-nous reçu en héritage, et que transmettrons-nous aux générations futures ? Autant de questions qui ne peuvent plus se permettre d'ignorer le numérique, en tant que paradigme majeur de notre relation à la société et aux traces qu'elle élabore et pérennise à travers le temps}
+      \field{isbn}{978-2-35723-187-0}
+      \field{langid}{fre}
+      \field{shorttitle}{{De l'écran à l'émotion}}
+      \field{title}{{De l'écran à l'émotion: quand le numérique devient patrimoine}}
+      \field{year}{2024}
+      \keyw{Classé,Lu,numerique}
+    \endentry
+    \entry{bertrand2021/mars/15}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18e5c73706f14dc9ae7337de38d283e5}{%
+           family={Bertrand},
+           familyi={B\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8953310d177f9d79e98aa19686eae431}{%
+           family={Degrange},
+           familyi={D\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Ecole nationale supérieure de l’information et des bibliothèques}%
+      }
+      \strng{namehash}{7fa1154f6ed8e36e4eba632ec21b2cc5}
+      \strng{fullhash}{7fa1154f6ed8e36e4eba632ec21b2cc5}
+      \strng{fullhashraw}{7fa1154f6ed8e36e4eba632ec21b2cc5}
+      \strng{bibnamehash}{7fa1154f6ed8e36e4eba632ec21b2cc5}
+      \strng{authorbibnamehash}{7fa1154f6ed8e36e4eba632ec21b2cc5}
+      \strng{authornamehash}{7fa1154f6ed8e36e4eba632ec21b2cc5}
+      \strng{authorfullhash}{7fa1154f6ed8e36e4eba632ec21b2cc5}
+      \strng{authorfullhashraw}{7fa1154f6ed8e36e4eba632ec21b2cc5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cela fait dix ans que Gallica, la bibliothèque numérique de la BnF, fonctionne de manière transverse pour assurer sa présence sur les réseaux sociaux numériques (RSN). Pour mener une analyse réflexive sur la manière dont cette activité s’insère au sein de l’institution, cet article appréhende l’équipe des RSN de Gallica comme un réseau social à part entière, basé sur la démocratisation de la pratique, et décrit, en s’appuyant sur l’expérience des praticiens, les modes organisationnels qui assurent la pérennité d’un tel modèle. Les auteurs s’interrogent sur le miroir éclaté et fragile que les médias sociaux tendent à la collection numérique, et montrent sous quelles conditions ces derniers sont susceptibles de modeler de manière vertueuse une bibliothèque numérique nationale, dépositaire de la mémoire commune de professionnels et d’amateurs.}
+      \field{issn}{2724-7430}
+      \field{journaltitle}{Balisages. La revue de recherche de l’Enssib}
+      \field{langid}{french}
+      \field{number}{2}
+      \field{title}{{Gallica sur les réseaux sociaux numériques ou la réappropriation d’une mémoire collective}}
+      \field{urlday}{27}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2021/mars/15}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.35562/balisages.450
+      \endverb
+      \verb{file}
+      \verb /home/melina/Zotero/storage/WI3RP6V4/Bertrand et Degrange - 2021 - Gallica sur les réseaux sociaux numériques ou la réappropriation d’une mémoire collective.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/balisages/450
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/balisages/450
+      \endverb
+      \keyw{Classé,donnees,mediation_donnees}
+    \endentry
+    \entry{briet}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=224a1dcfa383878d50d2ea03e1428f95}{%
+           family={Briet},
+           familyi={B\bibinitperiod},
+           given={Suzanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Editions documentaires, industrielles et techniques}%
+      }
+      \strng{namehash}{224a1dcfa383878d50d2ea03e1428f95}
+      \strng{fullhash}{224a1dcfa383878d50d2ea03e1428f95}
+      \strng{fullhashraw}{224a1dcfa383878d50d2ea03e1428f95}
+      \strng{bibnamehash}{224a1dcfa383878d50d2ea03e1428f95}
+      \strng{authorbibnamehash}{224a1dcfa383878d50d2ea03e1428f95}
+      \strng{authornamehash}{224a1dcfa383878d50d2ea03e1428f95}
+      \strng{authorfullhash}{224a1dcfa383878d50d2ea03e1428f95}
+      \strng{authorfullhashraw}{224a1dcfa383878d50d2ea03e1428f95}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{month}{2}
+      \field{title}{{Qu'est-ce que la documentation?}}
+      \field{year}{1951}
+      \field{pages}{7\bibrangedash 45}
+      \range{pages}{39}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/PTZ698TF/Briet - 1951 - Qu'est-ce que la documentation.pdf
+      \endverb
+      \keyw{Classé,Lu,TD}
+    \endentry
+    \entry{caporiondo-prost2026}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6bca2189065129832eb6c0934f0bdc57}{%
+           family={{Caporiondo-Prost}},
+           familyi={C\bibinitperiod},
+           given={Corinne},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {abds}%
+      }
+      \strng{namehash}{6bca2189065129832eb6c0934f0bdc57}
+      \strng{fullhash}{6bca2189065129832eb6c0934f0bdc57}
+      \strng{fullhashraw}{6bca2189065129832eb6c0934f0bdc57}
+      \strng{bibnamehash}{6bca2189065129832eb6c0934f0bdc57}
+      \strng{authorbibnamehash}{6bca2189065129832eb6c0934f0bdc57}
+      \strng{authornamehash}{6bca2189065129832eb6c0934f0bdc57}
+      \strng{authorfullhash}{6bca2189065129832eb6c0934f0bdc57}
+      \strng{authorfullhashraw}{6bca2189065129832eb6c0934f0bdc57}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{i2D Information, données et documents. Pratiques et recherche}
+      \field{langid}{french}
+      \field{month}{7}
+      \field{number}{1}
+      \field{shorttitle}{{Les métiers de la documentaion à l'épreuve de la transformation numérique et de l'intelligence artificielle}}
+      \field{title}{{Les métiers de la documentation à l'épreuve de la transformation numérique et de l'intelligence artificielle : comment l'Institut national de l'audiovisuel (INA) relève les défis}}
+      \field{year}{2026}
+      \field{pages}{143\bibrangedash 157}
+      \range{pages}{15}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/2RLM73RG/Caporiondo-Prost - 2026 - Les métiers de la documentation à l'épreuve de la transformation numérique et de l'intelligence arti.pdf
+      \endverb
+      \keyw{Classé,ina,Lu}
+    \endentry
+    \entry{2026}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{issn}{2607-7140}
+      \field{langid}{french}
+      \field{month}{7}
+      \field{title}{{Carnet de recherche de l'INAthèque – Actualité de la recherche sur les collections de l'INA}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/JFZ7IEGJ/inatheque.hypotheses.org.html
+      \endverb
+      \verb{urlraw}
+      \verb https://inatheque.hypotheses.org/
+      \endverb
+      \verb{url}
+      \verb https://inatheque.hypotheses.org/
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{lgbt}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Le Centre d'archives, des mémoires et des cultures LGBTQI+ Paris Île-de-France met en œuvre une philosophie de l'archive vivante, populaire et accessible à tous les publics.}
+      \field{langid}{french}
+      \field{title}{{Centre d'archives LGBTQI+ Paris Île-de France}}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/YIENKGQV/le-centre.html
+      \endverb
+      \verb{urlraw}
+      \verb https://archiveslgbtqi.fr/le-centre
+      \endverb
+      \verb{url}
+      \verb https://archiveslgbtqi.fr/le-centre
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{zotero-item-673}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{CNC | Le dépôt légal}}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/J9T4GEU9/depot-legal.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cnc.fr/professionnels/vos-demarches/depot-legal
+      \endverb
+      \verb{url}
+      \verb https://www.cnc.fr/professionnels/vos-demarches/depot-legal
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{cohen2021}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ef04e0667699ab68b664e88a54567fb}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Évelyne},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebc58a2efb7b6d7459a2e00475ae7a2a}{%
+           family={Roger},
+           familyi={R\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {la Documentation française}%
+      }
+      \strng{namehash}{87145f6ce76245c1df764740f7bb5f91}
+      \strng{fullhash}{87145f6ce76245c1df764740f7bb5f91}
+      \strng{fullhashraw}{87145f6ce76245c1df764740f7bb5f91}
+      \strng{bibnamehash}{87145f6ce76245c1df764740f7bb5f91}
+      \strng{authorbibnamehash}{87145f6ce76245c1df764740f7bb5f91}
+      \strng{authornamehash}{87145f6ce76245c1df764740f7bb5f91}
+      \strng{authorfullhash}{87145f6ce76245c1df764740f7bb5f91}
+      \strng{authorfullhashraw}{87145f6ce76245c1df764740f7bb5f91}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-11-145718-8}
+      \field{langid}{fre}
+      \field{series}{{Doc' en poche}}
+      \field{shorttitle}{{Les politiques audiovisuelles en France}}
+      \field{title}{{Les politiques audiovisuelles en France: de 1945 à nos jours}}
+      \field{year}{2021}
+      \keyw{Classé,histoire_patrimoine,Lu}
+    \endentry
+    \entry{demauro2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2f38c48484537045288def80e4a36c7d}{%
+           family={De\bibnamedelima Mauro},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d43dc127bfdfb5bafcdafda33a7459a3}{%
+           family={Greco},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4abc04f0cac633cc9bb4db88f57dde41}{%
+           family={Grimaldi},
+           familyi={G\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{feb97e19448d371806f8136ce98a9cd7}
+      \strng{fullhash}{feb97e19448d371806f8136ce98a9cd7}
+      \strng{fullhashraw}{feb97e19448d371806f8136ce98a9cd7}
+      \strng{bibnamehash}{feb97e19448d371806f8136ce98a9cd7}
+      \strng{authorbibnamehash}{feb97e19448d371806f8136ce98a9cd7}
+      \strng{authornamehash}{feb97e19448d371806f8136ce98a9cd7}
+      \strng{authorfullhash}{feb97e19448d371806f8136ce98a9cd7}
+      \strng{authorfullhashraw}{feb97e19448d371806f8136ce98a9cd7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose – The purpose of this paper is to identify and describe the most prominent research areas connected with “Big Data” and propose a thorough definition of the term. Design/methodology/approach – The authors have analysed a conspicuous corpus of industry and academia articles linked with Big Data to find commonalities among the topics they treated. The authors have also compiled a survey of existing definitions with a view of generating a more solid one that encompasses most of the work happening in the field. Findings – The main themes of Big Data are: information, technology, methods and impact. The authors propose a new definition for the term that reads as follows: “Big Data is the Information asset characterized by such a High Volume, Velocity and Variety to require specific Technology and Analytical Methods for its transformation into Value.” Practical implications – The formal definition that is proposed can enable a more coherent development of the concept of Big Data, as it solely relies on the essential strands of current state-of-the-art and is coherent with the most popular definitions currently used. Originality/value – This is among the first structured attempts of building a convincing definition of Big Data. It also contains an original exploration of the topic in connection with library management.}
+      \field{journaltitle}{Library Review}
+      \field{month}{4}
+      \field{title}{A Formal Definition of {{Big Data}} Based on Its Essential Features}
+      \field{volume}{65}
+      \field{year}{2016}
+      \field{pages}{122\bibrangedash 135}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1108/LR-06-2015-0061
+      \endverb
+      \verb{file}
+      \verb /home/melina/Zotero/storage/KTQ3KEVQ/De Mauro et al. - 2016 - A formal definition of Big Data based on its essential features.pdf
+      \endverb
+      \keyw{Classé,donnees,Lu}
+    \endentry
+    \entry{zotero-item-647}{misc}{}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{number}{2011-1904}
+      \field{title}{Décret N° 2011-1904 Du 19 Décembre 2011 Relatif Au Dépôt Légal}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/Q8LTIK68/JORFTEXT000025002022.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025002022
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025002022
+      \endverb
+      \keyw{Classé,loi,Lu}
+    \endentry
+    \entry{zotero-item-330}{misc}{}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{number}{93-1429}
+      \field{title}{Décret N°93-1429 Du 31 Décembre 1993 Relatif Au Dépôt Légal}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{1993}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/2TLR5TQE/LEGISCTA000006098245.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006098245/
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006098245/
+      \endverb
+      \keyw{Classé,loi,Lu}
+    \endentry
+    \entry{zotero-item-739}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c5a87e3b94dbf0f4bccc5f5d04460a5}{%
+           family={Delmas},
+           familyi={D\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \strng{namehash}{5c5a87e3b94dbf0f4bccc5f5d04460a5}
+      \strng{fullhash}{5c5a87e3b94dbf0f4bccc5f5d04460a5}
+      \strng{fullhashraw}{5c5a87e3b94dbf0f4bccc5f5d04460a5}
+      \strng{bibnamehash}{5c5a87e3b94dbf0f4bccc5f5d04460a5}
+      \strng{authorbibnamehash}{5c5a87e3b94dbf0f4bccc5f5d04460a5}
+      \strng{authornamehash}{5c5a87e3b94dbf0f4bccc5f5d04460a5}
+      \strng{authorfullhash}{5c5a87e3b94dbf0f4bccc5f5d04460a5}
+      \strng{authorfullhashraw}{5c5a87e3b94dbf0f4bccc5f5d04460a5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Les dossiers de l'Audiovisuel}
+      \field{month}{12}
+      \field{number}{54}
+      \field{title}{Archives Ou Sources ?}
+      \field{year}{1993}
+      \field{pages}{40\bibrangedash 42}
+      \range{pages}{3}
+      \keyw{archives,Lu}
+    \endentry
+    \entry{fillioud1994}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ae9fbd4b2860f76a4d5902b36d8e1760}{%
+           family={Denel},
+           familyi={D\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dc360db2c86014c6c29c975f9e99ef2}{%
+           family={Piéjut},
+           familyi={P\bibinitperiod},
+           given={Geneviève},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12d85e07f7fbdd770fa5acc0fe51bbe7}{%
+           family={Rodes},
+           familyi={R\bibinitperiod},
+           given={Jean-Michel},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=082f5f3113bbacb2c7bfa4d5f7879607}{%
+           family={Debray},
+           familyi={D\bibinitperiod},
+           given={Régis},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {La documentation française}%
+      }
+      \strng{namehash}{cc4d72ee139f22274c31f2ed4655b200}
+      \strng{fullhash}{8eaa2e25182496d23bedb0d6e3c64db8}
+      \strng{fullhashraw}{8eaa2e25182496d23bedb0d6e3c64db8}
+      \strng{bibnamehash}{8eaa2e25182496d23bedb0d6e3c64db8}
+      \strng{authorbibnamehash}{8eaa2e25182496d23bedb0d6e3c64db8}
+      \strng{authornamehash}{cc4d72ee139f22274c31f2ed4655b200}
+      \strng{authorfullhash}{8eaa2e25182496d23bedb0d6e3c64db8}
+      \strng{authorfullhashraw}{8eaa2e25182496d23bedb0d6e3c64db8}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{dossiers de l'audiovisuel}
+      \field{langid}{french}
+      \field{month}{3}
+      \field{number}{54}
+      \field{title}{{Le dépôt légal de la radio et de la télévision}}
+      \field{year}{1994}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \keyw{Classé,histoire_patrimoine,Lu}
+    \endentry
+    \entry{farchy2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c8707292b014762817d5253c4fc46254}{%
+           family={Farchy},
+           familyi={F\bibinitperiod},
+           given={Joëlle},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1799773b4b45868b716df66d01646877}{%
+           family={Tallec},
+           familyi={T\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Éditions de l'Université de Lorraine}%
+      }
+      \strng{namehash}{6ac09acf65bf2e1d68467d73705ee1af}
+      \strng{fullhash}{6ac09acf65bf2e1d68467d73705ee1af}
+      \strng{fullhashraw}{6ac09acf65bf2e1d68467d73705ee1af}
+      \strng{bibnamehash}{6ac09acf65bf2e1d68467d73705ee1af}
+      \strng{authorbibnamehash}{6ac09acf65bf2e1d68467d73705ee1af}
+      \strng{authornamehash}{6ac09acf65bf2e1d68467d73705ee1af}
+      \strng{authorfullhash}{6ac09acf65bf2e1d68467d73705ee1af}
+      \strng{authorfullhashraw}{6ac09acf65bf2e1d68467d73705ee1af}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La recommandation algorithmique fait débat depuis les premiers travaux qui ont popularisé le terme de « bulle de filtre ». L’hypothèse d’un enfermement de l’usager est largement associée aux biais liés à la personnalisation de plus en plus fine et de plus en plus poussée des résultats proposés, qu’il s’agisse des moteurs de recherche, des réseaux sociaux ou des services culturels. En matière d’information, la question soulevée est celle de l’accès au pluralisme des opinions dans une société démocratique. Pour l’offre proposée par les services culturels en ligne, la thèse des biais algorithmiques et de l’enfermement dans la même catégorie de contenus au détriment de la diversité culturelle, bien que récurrente, n’a jamais été totalement éprouvée dans des travaux empiriques. Établir des formes de régulation adaptées suppose pourtant des outils d’objectivation afin de confirmer ou d’atténuer les craintes exprimées par l’hypothèse de la bulle de filtre.}
+      \field{issn}{1633-5961}
+      \field{journaltitle}{Questions de communication}
+      \field{langid}{french}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{{De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre}}
+      \field{urlday}{27}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{43}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{241\bibrangedash 268}
+      \range{pages}{28}
+      \verb{urlraw}
+      \verb https://shs.cairn.info/revue-questions-de-communication-2023-1-page-241
+      \endverb
+      \verb{url}
+      \verb https://shs.cairn.info/revue-questions-de-communication-2023-1-page-241
+      \endverb
+      \keyw{A lire,En cours,expe}
+    \endentry
+    \entry{fayet-scribe2000}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fed5ef15ca8f2ee4ff14ce5b8ea4e013}{%
+           family={{Fayet-Scribe}},
+           familyi={F\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {CNRS Éditions}%
+      }
+      \strng{namehash}{fed5ef15ca8f2ee4ff14ce5b8ea4e013}
+      \strng{fullhash}{fed5ef15ca8f2ee4ff14ce5b8ea4e013}
+      \strng{fullhashraw}{fed5ef15ca8f2ee4ff14ce5b8ea4e013}
+      \strng{bibnamehash}{fed5ef15ca8f2ee4ff14ce5b8ea4e013}
+      \strng{authorbibnamehash}{fed5ef15ca8f2ee4ff14ce5b8ea4e013}
+      \strng{authornamehash}{fed5ef15ca8f2ee4ff14ce5b8ea4e013}
+      \strng{authorfullhash}{fed5ef15ca8f2ee4ff14ce5b8ea4e013}
+      \strng{authorfullhashraw}{fed5ef15ca8f2ee4ff14ce5b8ea4e013}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{À la fin du XIXe siècle, l’information devenant pléthorique, les méthodes et les outils permettant de repérer et de retrouver l’information deviennent incontournables pour maîtriser l’accès au savoir. Pour répondre à la nécessité d’organiser, au niveau collectif, l’ensemble des outils d’accès à l’information, un domaine d’activité nouveau se développe~: la documentation. Dès 1935, les documentalistes, regroupés au sein d’associations nationales ou internationales, identifient les techniques, mettent en place une terminologie, donnant naissance à la science de l’information. L’auteur s’attache à montrer comment durant la période 1895-1937, la documentation a été explorée, normalisée, organisée.}
+      \field{isbn}{978-2-271-09084-3}
+      \field{journaltitle}{Histoire de la documentation en France : Culture, science et technologie de l’information, 1895-1937}
+      \field{langid}{french}
+      \field{series}{{CNRS Histoire}}
+      \field{shorttitle}{{Histoire de la documentation en France}}
+      \field{title}{{Histoire de la documentation en France : Culture, science et technologie de l’information, 1895-1937}}
+      \field{urlday}{25}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://books.openedition.org/editionscnrs/8548
+      \endverb
+      \verb{url}
+      \verb https://books.openedition.org/editionscnrs/8548
+      \endverb
+      \keyw{Classé,Lu,TD}
+    \endentry
+    \entry{fourlinnie2016}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f88e9e10ec82f07db7d399b494f7a3ab}{%
+           family={Fourlinnie},
+           familyi={F\bibinitperiod},
+           given={Raphaëlle},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Cercle de la Librairie}%
+      }
+      \strng{namehash}{f88e9e10ec82f07db7d399b494f7a3ab}
+      \strng{fullhash}{f88e9e10ec82f07db7d399b494f7a3ab}
+      \strng{fullhashraw}{f88e9e10ec82f07db7d399b494f7a3ab}
+      \strng{bibnamehash}{f88e9e10ec82f07db7d399b494f7a3ab}
+      \strng{authorbibnamehash}{f88e9e10ec82f07db7d399b494f7a3ab}
+      \strng{authornamehash}{f88e9e10ec82f07db7d399b494f7a3ab}
+      \strng{authorfullhash}{f88e9e10ec82f07db7d399b494f7a3ab}
+      \strng{authorfullhashraw}{f88e9e10ec82f07db7d399b494f7a3ab}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Vers de nouveaux catalogues}}
+      \field{isbn}{978-2-7654-1513-8}
+      \field{issn}{0184-0886}
+      \field{langid}{french}
+      \field{title}{{Visualiser les données du catalogue}}
+      \field{urlday}{30}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{37\bibrangedash 47}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.3917/elec.berme.2016.01.0037
+      \endverb
+      \verb{file}
+      \verb /home/melina/Zotero/storage/7K9T38K6/vers-de-nouveaux-catalogues--9782765415138-page-37.html
+      \endverb
+      \verb{urlraw}
+      \verb https://shs.cairn.info/vers-de-nouveaux-catalogues--9782765415138-page-37
+      \endverb
+      \verb{url}
+      \verb https://shs.cairn.info/vers-de-nouveaux-catalogues--9782765415138-page-37
+      \endverb
+      \keyw{Classé,donnees,Lu,mediation_donnees}
+    \endentry
+    \entry{gallica}{misc}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{title}{Gallica}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/GIQXK4AF/accueil-fr.html
+      \endverb
+      \verb{urlraw}
+      \verb https://gallica.bnf.fr/accueil/fr/html/accueil-fr
+      \endverb
+      \verb{url}
+      \verb https://gallica.bnf.fr/accueil/fr/html/accueil-fr
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{gallica10}{misc}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BnF - Site institutionnel}
+      \field{journaltitle}{BnF - Site institutionnel}
+      \field{langid}{french}
+      \field{month}{3}
+      \field{title}{{Gallica | 10 millions de documents numérisés dans Gallica}}
+      \field{urlday}{17}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/MEEYQC7M/10-millions-de-documents-numerises-dans-gallica.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bnf.fr/fr/actualites/10-millions-de-documents-numerises-dans-gallica
+      \endverb
+      \verb{url}
+      \verb https://www.bnf.fr/fr/actualites/10-millions-de-documents-numerises-dans-gallica
+      \endverb
+      \keyw{A lire,Classé,Lu,site_web}
+    \endentry
+    \entry{zotero-item-675}{misc}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{BnF - Site institutionnel}
+      \field{journaltitle}{BnF - Site institutionnel}
+      \field{langid}{french}
+      \field{shorttitle}{{Dépôt légal}}
+      \field{title}{{Gallica | Dépôt légal : pour quels documents ?}}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/8XEZ38ZK/depot-legal-pour-quels-documents.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bnf.fr/fr/depot-legal-pour-quels-documents
+      \endverb
+      \verb{url}
+      \verb https://www.bnf.fr/fr/depot-legal-pour-quels-documents
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{zotero-item-763}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=42bbf55f7a874210c53b20e2bc0aed46}{%
+           family={Gerald},
+           familyi={G\bibinitperiod},
+           given={Gibson},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c285acf73802dcba9a020beeff264cd}{%
+           family={Carneal},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab2134650853e03e501387e1985b7d1f}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8718aa6af02d5c16740d11750eb6d7fc}{%
+           family={Petherman},
+           familyi={P\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12d85e07f7fbdd770fa5acc0fe51bbe7}{%
+           family={Rodes},
+           familyi={R\bibinitperiod},
+           given={Jean-Michel},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffb1a52f47837311f63d8d30e39fd27b}{%
+           family={Cazin},
+           familyi={C\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=086543cd19cb3e9e56212c98bbb7832a}{%
+           family={Tudesq},
+           familyi={T\bibinitperiod},
+           given={André-Jean},
+           giveni={A\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \strng{namehash}{50eaaa652994d09341b8507a83bc6697}
+      \strng{fullhash}{ec124ec39b41113710c32c0d8cd909b6}
+      \strng{fullhashraw}{ec124ec39b41113710c32c0d8cd909b6}
+      \strng{bibnamehash}{ec124ec39b41113710c32c0d8cd909b6}
+      \strng{authorbibnamehash}{ec124ec39b41113710c32c0d8cd909b6}
+      \strng{authornamehash}{50eaaa652994d09341b8507a83bc6697}
+      \strng{authorfullhash}{ec124ec39b41113710c32c0d8cd909b6}
+      \strng{authorfullhashraw}{ec124ec39b41113710c32c0d8cd909b6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Les dossiers de l'Audiovisuel}
+      \field{month}{10}
+      \field{number}{9}
+      \field{title}{Les Archives Radio En {{France}} et Dans Le Monde}
+      \field{year}{1986}
+      \field{pages}{16\bibrangedash 25}
+      \range{pages}{10}
+      \keyw{archives,Classé,Lu}
+    \endentry
+    \entry{griveau2024}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a6d18d049e0f89614a8f959961bf093}{%
+           family={Griveau},
+           familyi={G\bibinitperiod},
+           given={Maxime},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Ecole Nationale des Chartes - PSL}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{2a6d18d049e0f89614a8f959961bf093}
+      \strng{fullhash}{2a6d18d049e0f89614a8f959961bf093}
+      \strng{fullhashraw}{2a6d18d049e0f89614a8f959961bf093}
+      \strng{bibnamehash}{2a6d18d049e0f89614a8f959961bf093}
+      \strng{authorbibnamehash}{2a6d18d049e0f89614a8f959961bf093}
+      \strng{authornamehash}{2a6d18d049e0f89614a8f959961bf093}
+      \strng{authorfullhash}{2a6d18d049e0f89614a8f959961bf093}
+      \strng{authorfullhashraw}{2a6d18d049e0f89614a8f959961bf093}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This thesis, conducted during an internship at Radio-Télévision Suisse (RTS) as part of the Master’s program in Digital Technologies Applied to History (TNAH) at the École des chartes - PSL (Paris), focuses on the concept of discoverability in the heritage sector, defined as the « ability of an object to emerge from a vast array to a user who has not explicitly requested it ». The study explores content availability, findability, and algorithmic recommendation, providing a historical perspective on the notion. It then addresses the evolution of interfaces, particularly catalogs and data visualizations and finally examines the limits of the concept : the web ecosystem, institutional rules and blind spots (digital accessibility, explainability, and responsible digital practices).}
+      \field{langid}{french}
+      \field{shorttitle}{{La découvrabilité des contenus culturels}}
+      \field{title}{{La découvrabilité des contenus culturels à l'heure du big data patrimonial}}
+      \field{type}{{Mémoire}}
+      \field{year}{2024}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/QR9MJ9JM/Griveau - La découvrabilité des contenus culturel à l'heure du big data patrimonial.pdf
+      \endverb
+      \keyw{Classé,donnees,Lu,mediation_donnees}
+    \endentry
+    \entry{hoog2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc576e514f47c602dfd0b2219c909611}{%
+           family={Hoog},
+           familyi={H\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses Univ. de France}%
+      }
+      \strng{namehash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{fullhash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{fullhashraw}{fc576e514f47c602dfd0b2219c909611}
+      \strng{bibnamehash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{authorbibnamehash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{authornamehash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{authorfullhash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{authorfullhashraw}{fc576e514f47c602dfd0b2219c909611}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-13-054545-3}
+      \field{langid}{fre}
+      \field{number}{3716}
+      \field{series}{{Que sais-je ?}}
+      \field{title}{{L' INA}}
+      \field{year}{2006}
+      \keyw{ina,Lu}
+    \endentry
+    \entry{zotero-item-655}{misc}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Des réseaux sociaux aux stages de formation, en passant par la numérisation de notre patrimoine : l'INA en chiffres, au 31 décembre 2025.}
+      \field{journaltitle}{ina.fr}
+      \field{langid}{french}
+      \field{title}{{INA | Chiffres clés}}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/9WNEZL2X/chiffres-cles.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ina.fr/institut-national-audiovisuel/organisation/chiffres-cles
+      \endverb
+      \verb{url}
+      \verb https://www.ina.fr/institut-national-audiovisuel/organisation/chiffres-cles
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{zotero-item-708}{misc}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tous les cuts sont permis ! Le service d’achat en ligne de vidéos clé-en-main pour les créateurs de contenus.}
+      \field{journaltitle}{ina.fr}
+      \field{langid}{french}
+      \field{title}{{INA | mediaclip}}
+      \field{urlday}{27}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/WYBNZUFH/mediaclip.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ina.fr/offres-et-services/mediaclip
+      \endverb
+      \verb{url}
+      \verb https://www.ina.fr/offres-et-services/mediaclip
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{zotero-item-696}{misc}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ina MEDIAPRO}
+      \field{langid}{french}
+      \field{title}{{Ina MEDIAPRO}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/UAPXTAMC/www.inamediapro.com.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.inamediapro.com
+      \endverb
+      \verb{url}
+      \verb http://www.inamediapro.com
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{ina}{misc}{}{}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Découvrez les fonds audios et vidéos à consulter gratuitement, des articles qui éclairent l’actualité, les activités de l’INA, ses rendez-vous, ses formations et bien plus encore !}
+      \field{journaltitle}{ina.fr}
+      \field{langid}{french}
+      \field{title}{{ina.fr}}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/FUDDUN2Q/1.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ina.fr/node/1
+      \endverb
+      \verb{url}
+      \verb https://www.ina.fr/node/1
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{institutnationaldhistoiredelartinha2019a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b6b98c6ecad693a6b7d6c7f12338185}{%
+           family={{Institut national d'histoire de l'art (INHA)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b6b98c6ecad693a6b7d6c7f12338185}
+      \strng{fullhash}{8b6b98c6ecad693a6b7d6c7f12338185}
+      \strng{fullhashraw}{8b6b98c6ecad693a6b7d6c7f12338185}
+      \strng{bibnamehash}{8b6b98c6ecad693a6b7d6c7f12338185}
+      \strng{authorbibnamehash}{8b6b98c6ecad693a6b7d6c7f12338185}
+      \strng{authornamehash}{8b6b98c6ecad693a6b7d6c7f12338185}
+      \strng{authorfullhash}{8b6b98c6ecad693a6b7d6c7f12338185}
+      \strng{authorfullhashraw}{8b6b98c6ecad693a6b7d6c7f12338185}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Un modèle de données unique pour décrire toutes les collections de l’INA\,; pourquoi ? Comment ? 11 février 2019 ▬}
+      \field{shorttitle}{\#{{LundisNum}} | 11 Février 2019 - {{Gautier Poupeau}}}
+      \field{title}{\#{{LundisNum}} | 11 Février 2019 - {{Gautier Poupeau}} : Rassembler Les Métadonnées Des Collections de l'{{INA}}}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=KYOzoRPks8Q
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=KYOzoRPks8Q
+      \endverb
+      \keyw{Classé,donnees,Lu}
+    \endentry
+    \entry{Maria2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f92fa654f28f347322b5b647cda2829}{%
+           family={Itania\bibnamedelima Maria},
+           familyi={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Mota\bibnamedelima Gomes},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Publications de la Sorbonne}%
+      }
+      \strng{namehash}{1f92fa654f28f347322b5b647cda2829}
+      \strng{fullhash}{1f92fa654f28f347322b5b647cda2829}
+      \strng{fullhashraw}{1f92fa654f28f347322b5b647cda2829}
+      \strng{bibnamehash}{1f92fa654f28f347322b5b647cda2829}
+      \strng{authorbibnamehash}{1f92fa654f28f347322b5b647cda2829}
+      \strng{authornamehash}{1f92fa654f28f347322b5b647cda2829}
+      \strng{authorfullhash}{1f92fa654f28f347322b5b647cda2829}
+      \strng{authorfullhashraw}{1f92fa654f28f347322b5b647cda2829}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sociétés \& Représentations}
+      \field{number}{35}
+      \field{title}{Les Politiques Publiques de Conservation et d'accès Aux Collections Télévisées Au {{Brésil}}}
+      \field{year}{2013}
+      \field{pages}{41\bibrangedash 58}
+      \range{pages}{18}
+      \keyw{Classé,histoire_patrimoine,Lu}
+    \endentry
+    \entry{zotero-item-735}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b292365730062cc06ad524d81037bfd2}{%
+           family={{Jean-Noël Jeanneney}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \strng{namehash}{b292365730062cc06ad524d81037bfd2}
+      \strng{fullhash}{b292365730062cc06ad524d81037bfd2}
+      \strng{fullhashraw}{b292365730062cc06ad524d81037bfd2}
+      \strng{bibnamehash}{b292365730062cc06ad524d81037bfd2}
+      \strng{authorbibnamehash}{b292365730062cc06ad524d81037bfd2}
+      \strng{authornamehash}{b292365730062cc06ad524d81037bfd2}
+      \strng{authorfullhash}{b292365730062cc06ad524d81037bfd2}
+      \strng{authorfullhashraw}{b292365730062cc06ad524d81037bfd2}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{dossiers de l'audiovisuel}
+      \field{month}{4}
+      \field{number}{54}
+      \field{title}{1982 : {{Pour}} Une Mémoire Collective}
+      \field{year}{1982}
+      \field{pages}{10\bibrangedash 11}
+      \range{pages}{2}
+      \keyw{Classé,histoire_patrimoine,Lu}
+    \endentry
+    \entry{theque2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5df7869275719342ffe8ebc54e0dfff}{%
+           family={Kirzin},
+           familyi={K\bibinitperiod},
+           given={Charlotte},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5df7869275719342ffe8ebc54e0dfff}
+      \strng{fullhash}{c5df7869275719342ffe8ebc54e0dfff}
+      \strng{fullhashraw}{c5df7869275719342ffe8ebc54e0dfff}
+      \strng{bibnamehash}{c5df7869275719342ffe8ebc54e0dfff}
+      \strng{authorbibnamehash}{c5df7869275719342ffe8ebc54e0dfff}
+      \strng{authornamehash}{c5df7869275719342ffe8ebc54e0dfff}
+      \strng{authorfullhash}{c5df7869275719342ffe8ebc54e0dfff}
+      \strng{authorfullhashraw}{c5df7869275719342ffe8ebc54e0dfff}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Ce guide a été réalisé par Charlotte Kirzin, documentaliste audiovisuel INA. La France d'outre-mer, les Outre-mer ou les outre-mers, ou bien encore les Ultramarins, comprend plusieurs territoires de la République française à plusieurs milliers de kilomètres de la France métropolitaine. Nous parlons aujourd'hui de DROM-COM (départements et régions d'outre-mer et collectivités d'outre-mer), anciennement dénommés DOM-TOM…}
+      \field{issn}{2607-7140}
+      \field{journaltitle}{Carnet de recherche de l'INAthèque}
+      \field{langid}{french}
+      \field{month}{2}
+      \field{shorttitle}{{Les Outre-mers dans les collections de l’INA}}
+      \field{title}{{Les Outre-mers dans les collections de l’INA : première partie}}
+      \field{type}{{Hypothèses}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.58079/vwmb
+      \endverb
+      \verb{file}
+      \verb /home/melina/Zotero/storage/J9VRGDHQ/39694.html
+      \endverb
+      \verb{urlraw}
+      \verb https://inatheque.hypotheses.org/39694
+      \endverb
+      \verb{url}
+      \verb https://inatheque.hypotheses.org/39694
+      \endverb
+      \keyw{Classé,ina,Lu}
+    \endentry
+    \entry{zotero-item-700}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{L’INA lance le lab, une nouvelle offre pour mettre la data au service de la recherche sur les médias. Ce nouveau dispositif innovant est présenté au MK2 bibliothèque à Paris le jeudi 8 décembre.}
+      \field{journaltitle}{ina.fr}
+      \field{langid}{french}
+      \field{shorttitle}{{L’INA lance le lab}}
+      \field{title}{{L’INA lance le lab : la data média au service des chercheurs | INA}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/63B7GNS9/l-ina-lance-le-lab-la-data-media-au-service-des-chercheurs.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ina.fr/actualites-ina/l-ina-lance-le-lab-la-data-media-au-service-des-chercheurs
+      \endverb
+      \verb{url}
+      \verb https://www.ina.fr/actualites-ina/l-ina-lance-le-lab-la-data-media-au-service-des-chercheurs
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{zotero-item-654}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Recorded Sound Research Center provides access to the commercial and archival audio holdings of the Library of Congress. The Library's audio collections are now the largest in the United States and among the most comprehensive in the world. The collection dates from 1926 when Victor Records donated over 400 discs to the Library's Music Division to supplement its print and manuscript holdings. In the custody of the National Audio-Visual Conservation Center since 1978, the collection has grown to include nearly 4 million items encompassing audio formats from cylinders to CDs. The holdings complement the field recordings of the American Folklife Center, the moving image collections served in the Moving Image Research Center and the notated music of the Music Division. Because most collections are stored offsite, researchers will need to schedule an appointment to access materials.}
+      \field{journaltitle}{Library of Congress, Washington, D.C. 20540 USA}
+      \field{langid}{english}
+      \field{title}{Library of {{Congress}} | {{Collections}}}
+      \field{type}{Web Page}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/LM8369WR/collections.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.loc.gov/research-centers/recorded-sound/collections/
+      \endverb
+      \verb{url}
+      \verb https://www.loc.gov/research-centers/recorded-sound/collections/
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{zotero-item-331}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{number}{74-696}
+      \field{title}{Loi N° 74-696 Du 7 Août 1974 Relative à La Radiodiffusion et à La Télévision}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{1974}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/X69HVFPT/JORFTEXT000000333539.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000333539/
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000333539/
+      \endverb
+      \keyw{Classé,loi,Lu}
+    \endentry
+    \entry{zotero-item-334}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{number}{30 septembre 1986}
+      \field{title}{Loi N° 86-1067 Du 30 Septembre 1986 Relative à La Liberté de Communication ({{Loi Léotard}})}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/JNRMBMEQ/2020-10-15.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068930/2020-10-15/
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068930/2020-10-15/
+      \endverb
+      \keyw{Classé,loi,Lu}
+    \endentry
+    \entry{zotero-item-332}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Loi N° 92-546 Du 20 Juin 1992 Relative Au Dépôt Légal}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{1992}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/43QH85AW/LEGITEXT000006079299.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006079299/
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006079299/
+      \endverb
+      \keyw{Classé,loi,Lu}
+    \endentry
+    \entry{zotero-item-645}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{number}{64-621}
+      \field{title}{Loi N°64-621 Du 27 Juin 1964 {{RADIO-TELEVISION}}}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{1964}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/3FTM8WQZ/JORFTEXT000000880010.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000880010
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000880010
+      \endverb
+      \keyw{Classé,loi,Lu}
+    \endentry
+    \entry{loukissas}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc6c8b6e024050a96d54fe5bbe6da53c}{%
+           family={Loukissas},
+           familyi={L\bibinitperiod},
+           given={Yanni},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc6c8b6e024050a96d54fe5bbe6da53c}
+      \strng{fullhash}{cc6c8b6e024050a96d54fe5bbe6da53c}
+      \strng{fullhashraw}{cc6c8b6e024050a96d54fe5bbe6da53c}
+      \strng{bibnamehash}{cc6c8b6e024050a96d54fe5bbe6da53c}
+      \strng{authorbibnamehash}{cc6c8b6e024050a96d54fe5bbe6da53c}
+      \strng{authornamehash}{cc6c8b6e024050a96d54fe5bbe6da53c}
+      \strng{authorfullhash}{cc6c8b6e024050a96d54fe5bbe6da53c}
+      \strng{authorfullhashraw}{cc6c8b6e024050a96d54fe5bbe6da53c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Life}} and {{Death}} of {{Data}}}
+      \field{urlday}{30}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/YQ3TZ859/lifeanddeathofdata.org.html
+      \endverb
+      \verb{urlraw}
+      \verb https://lifeanddeathofdata.org/
+      \endverb
+      \verb{url}
+      \verb https://lifeanddeathofdata.org/
+      \endverb
+      \keyw{A lire,Classé,donnees}
+    \endentry
+    \entry{sensio}{misc}{}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{Médiamétrie}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/EXZWT2I3/fr.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mediametrie.fr/fr
+      \endverb
+      \verb{url}
+      \verb https://www.mediametrie.fr/fr
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{melot1993}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a148e0a6949ae0dcc953f9c45b15b02}{%
+           family={Melot},
+           familyi={M\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \strng{namehash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{fullhash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{fullhashraw}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{bibnamehash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{authorbibnamehash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{authornamehash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{authorfullhash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{authorfullhashraw}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Les dossiers de l'Audiovisuel}
+      \field{month}{12}
+      \field{title}{Le Fantasme de l'exhaustivité}
+      \field{volume}{54}
+      \field{year}{1993}
+      \field{pages}{42\bibrangedash 43}
+      \range{pages}{2}
+      \keyw{Lu,numerique}
+    \endentry
+    \entry{melot2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a148e0a6949ae0dcc953f9c45b15b02}{%
+           family={Melot},
+           familyi={M\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{fullhash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{fullhashraw}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{bibnamehash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{authorbibnamehash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{authornamehash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{authorfullhash}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \strng{authorfullhashraw}{8a148e0a6949ae0dcc953f9c45b15b02}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{L'objet patrimonial est consubstantiel à une communauté d'individus. L'auteur de l'article propose des définitions pour cerner la notion de patrimoine et celle de communauté. Existe-t-il un patrimoine individuel~? Un patrimoine de l'humanité~? Quelles sont les spécificités du patrimoine écrit~? Du patrimoine culturel~? Tout n'est pas patrimoine, mais tout peut le devenir...}
+      \field{journaltitle}{BBF}
+      \field{langid}{french}
+      \field{month}{1}
+      \field{number}{5}
+      \field{title}{{Qu'est-ce qu'un objet patrimonial ?}}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/U339WMR3/bbf-2004-05-0005-001.html
+      \endverb
+      \verb{urlraw}
+      \verb https://bbf.enssib.fr/consulter/bbf-2004-05-0005-001
+      \endverb
+      \verb{url}
+      \verb https://bbf.enssib.fr/consulter/bbf-2004-05-0005-001
+      \endverb
+      \keyw{histoire_patrimoine,Lu}
+    \endentry
+    \entry{olmeta2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14e70e9cdfec67cdbc2db926b046a118}{%
+           family={Olmeta},
+           familyi={O\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {CNRS Éditions}%
+      }
+      \strng{namehash}{14e70e9cdfec67cdbc2db926b046a118}
+      \strng{fullhash}{14e70e9cdfec67cdbc2db926b046a118}
+      \strng{fullhashraw}{14e70e9cdfec67cdbc2db926b046a118}
+      \strng{bibnamehash}{14e70e9cdfec67cdbc2db926b046a118}
+      \strng{authorbibnamehash}{14e70e9cdfec67cdbc2db926b046a118}
+      \strng{authornamehash}{14e70e9cdfec67cdbc2db926b046a118}
+      \strng{authorfullhash}{14e70e9cdfec67cdbc2db926b046a118}
+      \strng{authorfullhashraw}{14e70e9cdfec67cdbc2db926b046a118}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{L'idée de la conservation des films est contemporaine de la naissance du cinéma, mais les premières cinémathèques apparaissent seulement dans les années 1930. Cette situation est liée au statut même du cinéma qui, avant d'être reconnu comme un art majeur, fut longtemps considéré comme un simple divertissement. L'histoire mouvementée de la Cinémathèque française, créée en 1936, résume les contradictions qui se nouent autour de la préservation des films : lesquels conserver et comment gérer le lien difficile entre des organismes privés et leur indispensable financement public. De l'action précoce et désintéressée de passionnés à la lente prise de conscience de l'État face à la conservation d'un patrimoine national fragile, cet ouvrage permet de mettre en exergue le rôle pionnier de certaines personnalités (Henri Langlois, Georges Franju, Jean Mitry) et débouche sur une question actuelle : la place du cinéma et le rôle des cinémathèques dans un environnement audiovisuel de plus en plus diversifié et concurrentiel}
+      \field{isbn}{978-2-271-05730-3 978-2-271-07831-5}
+      \field{langid}{und}
+      \field{series}{{CNRS Histoire}}
+      \field{shorttitle}{{La Cinémathèque française}}
+      \field{title}{{La Cinémathèque française: De 1936 à nos jours}}
+      \field{year}{2002}
+      \keyw{archives,Classé,En cours}
+    \endentry
+    \entry{2004}{misc}{}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{number}{2004-178}
+      \field{title}{Ordonnance N° 2004-178 Du 20 Février 2004 Relative à La Partie Législative Du Code Du Patrimoine}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/87ZBE4QJ/JORFTEXT000000615405.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000615405
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000615405
+      \endverb
+      \keyw{Classé,loi,Lu}
+    \endentry
+    \entry{zotero-item-335}{misc}{}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{number}{59-273}
+      \field{title}{Ordonnance N° 59-273 Du 4 Février 1959 Relative à La Radiodiffusion-Télévision Française}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{1959}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/ZWLIM28Z/2020-11-08.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069260/2020-11-08/
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069260/2020-11-08/
+      \endverb
+      \keyw{Classé,loi,Lu}
+    \endentry
+    \entry{unesco}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5722c5bde0128e70125c1871985fc74}{%
+           family={{Organisation des Nations Unis pour l'éducation, la science et la culture}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Belgrade}%
+      }
+      \strng{namehash}{f5722c5bde0128e70125c1871985fc74}
+      \strng{fullhash}{f5722c5bde0128e70125c1871985fc74}
+      \strng{fullhashraw}{f5722c5bde0128e70125c1871985fc74}
+      \strng{bibnamehash}{f5722c5bde0128e70125c1871985fc74}
+      \strng{authorbibnamehash}{f5722c5bde0128e70125c1871985fc74}
+      \strng{authornamehash}{f5722c5bde0128e70125c1871985fc74}
+      \strng{authorfullhash}{f5722c5bde0128e70125c1871985fc74}
+      \strng{authorfullhashraw}{f5722c5bde0128e70125c1871985fc74}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{$<$}p{$>\&$}nbsp;{$<$}/p{$><$}p{$>$}The General Conference,{$<$}/p{$><$}p{$>$}Considering\&nbsp;that the disappearance of heritage in whatever form constitutes an impoverishment of the heritage of all nations,{$<$}/p{$><$}p{$>$}Recalling\&nbsp;that the Constitution of UNESCO provides that the Organization will maintain, increase and diffuse knowledge, by assuring the conservation and protection of the world’s inheritance of books, works of art and monuments of history and science, that its “Information for All” Programme provides a platform for discussions and action on information policies and the safeguarding of recorded knowledge, and that its “Memory of the World” Programme aims to ensure the preservation and universal accessibility of the world’s documentary heritage,{$<$}/p{$><$}p{$>$}Recognizing\&nbsp;that such resources of information and creative expression are increasingly produced, distributed, accessed and maintained in digital form, creating a new legacy – the digital heritage,{$<$}/p{$><$}p{$>$}Aware\&nbsp;that access to this heritage will offer broadened opportunities for creation, communication and sharing of knowledge among all peoples,{$<$}/p{$><$}p{$>$}Understanding\&nbsp;that this digital heritage is at risk of being lost and that its preservation for the benefit of present and future generations is an urgent issue of worldwide concern,{$<$}/p{$><$}p{$>$}Proclaims\&nbsp;the following principles and\&nbsp;adopts\&nbsp;the present Charter.{$<$}/p{$><$}p{$>$}The digital heritage as a common heritage{$<$}/p{$><$}p{$><$}strong{$>$}Article 1 – Scope{$<$}/strong{$><$}/p{$><$}p{$>$}The digital heritage consists of unique resources of human knowledge and expression. It embraces cultural, educational, scientific and administrative resources, as well as technical, legal, medical and other kinds of information created digitally, or converted into digital form from existing analogue resources. Where resources are “born digital”, there is no other format but the digital object.{$<$}/p{$><$}p{$>$}Digital materials include texts, databases, still and moving images, audio, graphics, software and web pages, among a wide and growing range of formats. They are frequently ephemeral, and require purposeful production, maintenance and management to be retained.{$<$}/p{$><$}p{$>$}Many of these resources have lasting value and significance, and therefore constitute a heritage that should be protected and preserved for current and future generations. This ever-growing heritage may exist in any language, in any part of the world, and in any area of human knowledge or expression.{$<$}/p{$><$}p{$><$}strong{$>$}Article 2 – Access to the digital heritage{$<$}/strong{$><$}/p{$><$}p{$>$}The purpose of preserving the digital heritage is to ensure that it remains accessible to the public. Accordingly, access to digital heritage materials, especially those in the public domain, should be free of unreasonable restrictions. At the same time, sensitive and personal information should be protected from any form of intrusion.{$<$}/p{$><$}p{$>$}Member States may wish to cooperate with relevant organizations and institutions in encouraging a legal and practical environment which will maximize accessibility of the digital heritage. A fair balance between the legitimate rights of creators and other rights holders and the interests of the public to access digital heritage materials should be reaffirmed and promoted, in accordance with international norms and agreements.{$<$}/p{$><$}p{$><$}strong{$>$}Guarding against loss of heritage{$<$}/strong{$><$}/p{$><$}p{$><$}strong{$>$}Article 3 – The threat of loss{$<$}/strong{$><$}/p{$><$}p{$>$}The world’s digital heritage is at risk of being lost to posterity. Contributing factors include the rapid obsolescence of the hardware and software which brings it to life, uncertainties about resources, responsibility and methods for maintenance and preservation, and the lack of supportive legislation.{$<$}/p{$><$}p{$>$}Attitudinal change has fallen behind technological change. Digital evolution has been too rapid and costly for governments and institutions to develop timely and informed preservation strategies. The threat to the economic, social, intellectual and cultural potential of the heritage – the building blocks of the future – has not been fully grasped.{$<$}/p{$><$}p{$><$}strong{$>$}Article 4 – Need for action{$<$}/strong{$><$}/p{$><$}p{$>$}Unless the prevailing threats are addressed, the loss of the digital heritage will be rapid and inevitable. Member States will benefit by encouraging legal, economic and technical measures to safeguard the heritage. Awareness-raising and advocacy is urgent, alerting policy-makers and sensitizing the general public to both the potential of the digital media and the practicalities of preservation.{$<$}/p{$><$}p{$><$}strong{$>$}Article 5 – Digital continuity{$<$}/strong{$><$}/p{$><$}p{$>$}Continuity of the digital heritage is fundamental. To preserve digital heritage, measures will need to be taken throughout the digital information life cycle, from creation to access. Long-term preservation of digital heritage begins with the design of reliable systems and procedures which will produce authentic and stable digital objects.{$<$}/p{$><$}p{$><$}strong{$>$}Measures required{$<$}/strong{$><$}/p{$><$}p{$><$}strong{$>$}Article 6 – Developing strategies and policies{$<$}/strong{$><$}/p{$><$}p{$>$}Strategies and policies to preserve the digital heritage need to be developed, taking into account the level of urgency, local circumstances, available means and future projections. The cooperation of holders of copyright and related rights, and other stakeholders, in setting common standards and compatibilities, and resource sharing, will facilitate this.{$<$}/p{$><$}p{$><$}strong{$>$}Article 7 – Selecting what should be kept{$<$}/strong{$><$}/p{$><$}p{$>$}As with all documentary heritage, selection principles may vary between countries, although the main criteria for deciding what digital materials to keep would be their significance and lasting cultural, scientific, evidential or other value. “Born digital” materials should clearly be given priority. Selection decisions and any subsequent reviews need to be carried out in an accountable manner, and be based on defined principles, policies, procedures and standards.{$<$}/p{$><$}p{$><$}strong{$>$}Article 8 – Protecting the digital heritage{$<$}/strong{$><$}/p{$><$}p{$>$}Member States need appropriate legal and institutional frameworks to secure the protection of their digital heritage.{$<$}/p{$><$}p{$>$}As a key element of national preservation policy, archive legislation and legal or voluntary deposit in libraries, archives, museums and other public repositories should embrace the digital heritage.{$<$}/p{$><$}p{$>$}Access to legally deposited digital heritage materials, within reasonable restrictions, should be assured without causing prejudice to their normal exploitation.{$<$}/p{$><$}p{$>$}Legal and technical frameworks for authenticity are crucial to prevent manipulation or intentional alteration of digital heritage. Both require that the content, functionality of files and documentation be maintained to the extent necessary to secure an authentic record.{$<$}/p{$><$}p{$><$}strong{$>$}Article 9 – Preserving cultural heritage{$<$}/strong{$><$}/p{$><$}p{$>$}The digital heritage is inherently unlimited by time, geography, culture or format. It is culture-specific, but potentially accessible to every person in the world. Minorities may speak to majorities, the individual to a global audience.{$<$}/p{$><$}p{$>$}The digital heritage of all regions, countries and communities should be preserved and made accessible, so as to assure over time representation of all peoples, nations, cultures and languages.{$<$}/p{$><$}p{$><$}strong{$>$}Responsibilities{$<$}/strong{$><$}/p{$><$}p{$><$}strong{$>$}Article 10 – Roles and responsibilities{$<$}/strong{$><$}/p{$><$}p{$>$}Member States may wish to designate one or more agencies to take coordinating responsibility for the preservation of the digital heritage, and to make available necessary resources. The sharing of tasks and responsibilities may be based on existing roles and expertise.{$<$}/p{$><$}p{$>$}Measures should be taken to:{$<$}br{$>$}(a) urge hardware and software developers, creators, publishers, producers and distributors of digital materials as well as other private sector partners to cooperate with national libraries, archives, museums and other public heritage organizations in preserving the digital heritage;{$<$}br{$>$}(b) develop training and research, and share experience and knowledge among the institutions and professional associations concerned;{$<$}br{$>$}(c) encourage universities and other research organizations, both public and private, to ensure preservation of research data.{$<$}/p{$><$}p{$><$}strong{$>$}Article 11 – Partnerships and cooperation{$<$}/strong{$><$}/p{$><$}p{$>$}Preservation of the digital heritage requires sustained efforts on the part of governments, creators, publishers, relevant industries and heritage institutions.{$<$}/p{$><$}p{$>$}In the face of the current digital divide, it is necessary to reinforce international cooperation and solidarity to enable all countries to ensure creation, dissemination, preservation and continued accessibility of their digital heritage.{$<$}/p{$><$}p{$>$}Industries, publishers and mass communication media are urged to promote and share knowledge and technical expertise.{$<$}/p{$><$}p{$>$}The stimulation of education and training programmes, resource-sharing arrangements, and dissemination of research results and best practices will democratize access to digital preservation techniques.{$<$}/p{$><$}p{$><$}strong{$>$}Article 12 – The role of UNESCO{$<$}/strong{$><$}/p{$><$}p{$>$}UNESCO, by virtue of its mandate and functions, has the responsibility to:{$<$}br{$>$}(a) take the principles set forth in this Charter into account in the functioning of its programmes and promote their implementation within the United Nations system and by intergovernmental and international non-governmental organizations concerned with the preservation of the digital heritage;{$<$}br{$>$}(b) serve as a reference point and a forum where Member States, intergovernmental and international non-governmental organizations, civil society and the private sector may join together in elaborating objectives, policies and projects in favour of the preservation of the digital heritage;{$<$}br{$>$}(c) foster cooperation, awareness-raising and capacity-building, and propose standard ethical, legal and technical guidelines, to support the preservation of the digital heritage;{$<$}br{$>$}(d) determine, on the basis of the experience gained over the next six years in implementing the present Charter and the guidelines, whether there is a need for further standard-setting instruments for the promotion and preservation of the digital heritage.{$<$}/p{$><$}p{$>\&$}nbsp;{$<$}/p{$>$}}
+      \field{booktitle}{Actes de La {{Conférence}} Générale {{Vingt}} et Unième Session}
+      \field{langid}{english}
+      \field{title}{Charter on the {{Preservation}} of {{Digital Heritage}}}
+      \field{urlday}{17}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{volume}{1}
+      \field{year}{1980}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/WQA9B5SZ/charter-preservation-digital-heritage.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.unesco.org/en/legal-affairs/charter-preservation-digital-heritage
+      \endverb
+      \verb{url}
+      \verb https://www.unesco.org/en/legal-affairs/charter-preservation-digital-heritage
+      \endverb
+      \keyw{archives,Lu}
+    \endentry
+    \entry{pardé2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=60b7b59cff58e4112daf66eb7af7f319}{%
+           family={Pardé},
+           familyi={P\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60b7b59cff58e4112daf66eb7af7f319}
+      \strng{fullhash}{60b7b59cff58e4112daf66eb7af7f319}
+      \strng{fullhashraw}{60b7b59cff58e4112daf66eb7af7f319}
+      \strng{bibnamehash}{60b7b59cff58e4112daf66eb7af7f319}
+      \strng{authorbibnamehash}{60b7b59cff58e4112daf66eb7af7f319}
+      \strng{authornamehash}{60b7b59cff58e4112daf66eb7af7f319}
+      \strng{authorfullhash}{60b7b59cff58e4112daf66eb7af7f319}
+      \strng{authorfullhashraw}{60b7b59cff58e4112daf66eb7af7f319}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1292-8399}
+      \field{journaltitle}{Bulletin des bibliothèques de France}
+      \field{langid}{french}
+      \field{month}{1}
+      \field{number}{5}
+      \field{title}{{Les usages documentaires dans une bibliothèque de Recherche}}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/F96PNEL2/les-usages-documentaires-dans-une-bibliotheque-de-recherche_66263.html
+      \endverb
+      \verb{urlraw}
+      \verb https://bbf.enssib.fr/matieres-a-penser/les-usages-documentaires-dans-une-bibliotheque-de-recherche_66263
+      \endverb
+      \verb{url}
+      \verb https://bbf.enssib.fr/matieres-a-penser/les-usages-documentaires-dans-une-bibliotheque-de-recherche_66263
+      \endverb
+      \keyw{Classé,En cours,TD}
+    \endentry
+    \entry{admin}{misc}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Notre Métier Télévision Plurimedia, premier fournisseur de guides de programmes TV en France, intègre, enrichit, illustre et met à jour en temps réel les programmes de plus de 1 000 chaînes de télévision françaises et étrangères. The European}
+      \field{journaltitle}{Plurimedia}
+      \field{langid}{french}
+      \field{title}{{Plurimédia}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/2CMVQ333/www.plurimedia.fr.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.plurimedia.fr/
+      \endverb
+      \verb{url}
+      \verb https://www.plurimedia.fr/
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{pradervand2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=55250a541f3c2f80e0d6d20e92d9e024}{%
+           family={Pradervand},
+           familyi={P\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=230999eb42f221214b5e60ce741476da}{%
+           family={Vallotton},
+           familyi={V\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Publications de la Sorbonne}%
+      }
+      \strng{namehash}{16f483905293f1ecc06071841fd297d9}
+      \strng{fullhash}{16f483905293f1ecc06071841fd297d9}
+      \strng{fullhashraw}{16f483905293f1ecc06071841fd297d9}
+      \strng{bibnamehash}{16f483905293f1ecc06071841fd297d9}
+      \strng{authorbibnamehash}{16f483905293f1ecc06071841fd297d9}
+      \strng{authornamehash}{16f483905293f1ecc06071841fd297d9}
+      \strng{authorfullhash}{16f483905293f1ecc06071841fd297d9}
+      \strng{authorfullhashraw}{16f483905293f1ecc06071841fd297d9}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Sociétés \& Représentations}
+      \field{number}{35}
+      \field{shorttitle}{Le Patrimoine Audiovisuel En {{Suisse}}}
+      \field{title}{Le Patrimoine Audiovisuel En {{Suisse}} : Génèse, Ressources, Reconfigurations}
+      \field{year}{2013}
+      \field{pages}{27\bibrangedash 41}
+      \range{pages}{15}
+      \keyw{Classé,histoire_patrimoine,Lu}
+    \endentry
+    \entry{zotero-item-158}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5472c81633a1501596f6067a90d0237}{%
+           family={{Rédaction de l'INA}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5472c81633a1501596f6067a90d0237}
+      \strng{fullhash}{c5472c81633a1501596f6067a90d0237}
+      \strng{fullhashraw}{c5472c81633a1501596f6067a90d0237}
+      \strng{bibnamehash}{c5472c81633a1501596f6067a90d0237}
+      \strng{authorbibnamehash}{c5472c81633a1501596f6067a90d0237}
+      \strng{authornamehash}{c5472c81633a1501596f6067a90d0237}
+      \strng{authorfullhash}{c5472c81633a1501596f6067a90d0237}
+      \strng{authorfullhashraw}{c5472c81633a1501596f6067a90d0237}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Lancé au printemps 2006 avec 10.000 heures de programmes, le site de l’INA a profondément transformé l’accès à la mémoire audiovisuelle.}
+      \field{journaltitle}{ina.fr}
+      \field{langid}{french}
+      \field{shorttitle}{{À quoi ressemblait le site de l'INA lors de son lancement en 2006 ?}}
+      \field{title}{{À quoi ressemblait le site de l'INA lors de son lancement en 2006 ?}}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/54D64QM4/ina-inafr-site-video-patrimoine-audiovisuel-archive-numerisation-offre-grand-public.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ina.fr/ina-eclaire-actu/ina-inafr-site-video-patrimoine-audiovisuel-archive-numerisation-offre-grand-public
+      \endverb
+      \verb{url}
+      \verb https://www.ina.fr/ina-eclaire-actu/ina-inafr-site-video-patrimoine-audiovisuel-archive-numerisation-offre-grand-public
+      \endverb
+      \keyw{Classé,ina,Lu}
+    \endentry
+    \entry{jean-michel1986}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12d85e07f7fbdd770fa5acc0fe51bbe7}{%
+           family={Rodes},
+           familyi={R\bibinitperiod},
+           given={Jean-Michel},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \strng{namehash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{fullhash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{fullhashraw}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{bibnamehash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{authorbibnamehash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{authornamehash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{authorfullhash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{authorfullhashraw}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{dossiers de l'audiovisuel}
+      \field{langid}{french}
+      \field{month}{10}
+      \field{number}{9}
+      \field{title}{{Dossier, les archives de la radio}}
+      \field{urlday}{18}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{1986}
+      \field{urldateera}{ce}
+      \field{pages}{54}
+      \range{pages}{1}
+      \keyw{Classé,histoire_patrimoine,Lu}
+    \endentry
+    \entry{Rodes1994}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12d85e07f7fbdd770fa5acc0fe51bbe7}{%
+           family={Rodes},
+           familyi={R\bibinitperiod},
+           given={Jean-Michel},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \strng{namehash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{fullhash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{fullhashraw}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{bibnamehash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{authorbibnamehash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{authornamehash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{authorfullhash}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \strng{authorfullhashraw}{12d85e07f7fbdd770fa5acc0fe51bbe7}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Les dossiers de l'Audiovisuel}
+      \field{month}{1}
+      \field{number}{54}
+      \field{title}{Le Système Informatique de Production Des Données}
+      \field{year}{1994}
+      \field{pages}{47\bibrangedash 49}
+      \range{pages}{3}
+      \keyw{Classé,donnees,Lu}
+    \endentry
+    \entry{saby2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee3489ca15fa77df58ca68c4893e62c4}{%
+           family={Saby},
+           familyi={S\bibinitperiod},
+           given={Frédéric},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Éditions de la Sorbonne}%
+      }
+      \strng{namehash}{ee3489ca15fa77df58ca68c4893e62c4}
+      \strng{fullhash}{ee3489ca15fa77df58ca68c4893e62c4}
+      \strng{fullhashraw}{ee3489ca15fa77df58ca68c4893e62c4}
+      \strng{bibnamehash}{ee3489ca15fa77df58ca68c4893e62c4}
+      \strng{authorbibnamehash}{ee3489ca15fa77df58ca68c4893e62c4}
+      \strng{authornamehash}{ee3489ca15fa77df58ca68c4893e62c4}
+      \strng{authorfullhash}{ee3489ca15fa77df58ca68c4893e62c4}
+      \strng{authorfullhashraw}{ee3489ca15fa77df58ca68c4893e62c4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Le dépôt légal, vieille institution créée en France par François Ier en 1537, a été conçu à l’origine pour recueillir, dans la bibliothèque du roi – ancêtre de la Bibliothèque nationale – les livres imprimés en France. Au fur et à mesure que les techniques d’impression, plus largement de reproduction, non seulement des textes mais des documents, ont évolué, le dépôt légal a évolué lui aussi. Au fil des siècles, il a englobé les différents types de documents, au fur et à mesure de leur apparition, jusqu’aux documents numériques aujourd’hui. Il constitue donc un fondement essentiel pour la recherche historique, à cause précisément de cette complétude.}
+      \field{chapter}{Arts}
+      \field{issn}{1262-2966}
+      \field{journaltitle}{Sociétés \& Représentations}
+      \field{langid}{french}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{{Approche historique du dépôt légal en France}}
+      \field{urlday}{17}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{volume}{35}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{15\bibrangedash 26}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3917/sr.035.0015
+      \endverb
+      \verb{file}
+      \verb /home/melina/Zotero/storage/974WW5WV/Saby - 2013 - Approche historique du dépôt légal en France.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://shs.cairn.info/revue-societes-et-representations-2013-1-page-15
+      \endverb
+      \verb{url}
+      \verb https://shs.cairn.info/revue-societes-et-representations-2013-1-page-15
+      \endverb
+      \keyw{Classé,histoire_patrimoine,Lu}
+    \endentry
+    \entry{saintville1994}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=664f7c699f90d858e1d6322ad2768e31}{%
+           family={Saintville},
+           familyi={S\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \strng{namehash}{664f7c699f90d858e1d6322ad2768e31}
+      \strng{fullhash}{664f7c699f90d858e1d6322ad2768e31}
+      \strng{fullhashraw}{664f7c699f90d858e1d6322ad2768e31}
+      \strng{bibnamehash}{664f7c699f90d858e1d6322ad2768e31}
+      \strng{authorbibnamehash}{664f7c699f90d858e1d6322ad2768e31}
+      \strng{authornamehash}{664f7c699f90d858e1d6322ad2768e31}
+      \strng{authorfullhash}{664f7c699f90d858e1d6322ad2768e31}
+      \strng{authorfullhashraw}{664f7c699f90d858e1d6322ad2768e31}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Les dossiers de l'Audiovisuel}
+      \field{month}{1}
+      \field{number}{54}
+      \field{title}{L'exercice de La Documentation Au Dépôt Légal. {{L}}'évolution Du Système Documentaire de l'{{INA}}}
+      \field{year}{1994}
+      \field{pages}{75\bibrangedash 76}
+      \range{pages}{2}
+      \keyw{ina,Lu}
+    \endentry
+    \entry{silberstein2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=20d3b0e497c3e82b1c761c424ece313a}{%
+           family={Silberstein},
+           familyi={S\bibinitperiod},
+           given={Manon},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20d3b0e497c3e82b1c761c424ece313a}
+      \strng{fullhash}{20d3b0e497c3e82b1c761c424ece313a}
+      \strng{fullhashraw}{20d3b0e497c3e82b1c761c424ece313a}
+      \strng{bibnamehash}{20d3b0e497c3e82b1c761c424ece313a}
+      \strng{authorbibnamehash}{20d3b0e497c3e82b1c761c424ece313a}
+      \strng{authornamehash}{20d3b0e497c3e82b1c761c424ece313a}
+      \strng{authorfullhash}{20d3b0e497c3e82b1c761c424ece313a}
+      \strng{authorfullhashraw}{20d3b0e497c3e82b1c761c424ece313a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{De la tasse que nous utilisons pour notre café du matin à nos applis mobiles préférées et nos exemples de webdesign, une grande partie de notre routine quotidienne implique, voire dépend, d'interactions régulières avec des produits numériques et matériels. Ces interactions génèrent des sentiments qui laissent une impression durable sur nous en tant qu'utilisateurs, autrement connue sous le nom d'«~user experience~» ou «~expérience utilisateur~».L’UX design consiste à façonner judicieusement des}
+      \field{journaltitle}{Blog FR}
+      \field{langid}{french}
+      \field{month}{12}
+      \field{shorttitle}{{Guide UX}}
+      \field{title}{{Guide UX : qu’est-ce que l’expérience utilisateur ?}}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/SVFT9CSY/ux-comment-ameliorer-lexperience-utilisateur-de-votre-site-internet.html
+      \endverb
+      \verb{urlraw}
+      \verb https://fr.wix.com/blog/ux-comment-ameliorer-lexperience-utilisateur-de-votre-site-internet
+      \endverb
+      \verb{url}
+      \verb https://fr.wix.com/blog/ux-comment-ameliorer-lexperience-utilisateur-de-votre-site-internet
+      \endverb
+      \keyw{En cours,expe}
+    \endentry
+    \entry{sedan}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comité d'Histoire Régionale}
+      \field{langid}{french}
+      \field{title}{{Société d’histoire et d’archéologie du Sedanais}}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/UX4A2VVU/societe-dhistoire-et-darcheologie-du-sedanais.html
+      \endverb
+      \verb{urlraw}
+      \verb https://chr.grandest.fr/acteurs/societe-dhistoire-et-darcheologie-du-sedanais/
+      \endverb
+      \verb{url}
+      \verb https://chr.grandest.fr/acteurs/societe-dhistoire-et-darcheologie-du-sedanais/
+      \endverb
+      \keyw{Classé,Lu,site_web}
+    \endentry
+    \entry{decouvrabilite}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Stratégie visant à mettre en place un cadre d'action exemplaire afin de favoriser la découvrabilité des contenus culturels francophones.}
+      \field{journaltitle}{Gouvernement du Québec}
+      \field{langid}{french}
+      \field{title}{{Stratégie commune de la mission franco-québécoise sur la découvrabilité des contenus culturels francophones}}
+      \field{urlday}{17}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/melina/Zotero/storage/YBGBLVMA/strategie-franco-quebecoise-decouvrabilite-contenus-culturels-francophones.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.quebec.ca/gouvernement/ministeres-organismes/culture-communications/publications/strategie-franco-quebecoise-decouvrabilite-contenus-culturels-francophones
+      \endverb
+      \verb{url}
+      \verb https://www.quebec.ca/gouvernement/ministeres-organismes/culture-communications/publications/strategie-franco-quebecoise-decouvrabilite-contenus-culturels-francophones
+      \endverb
+      \keyw{Classé,donnees,Lu,mediation_donnees}
+    \endentry
+    \entry{tible2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbe5dc4c8cc06fd012a74c5e84772545}{%
+           family={Tible},
+           familyi={T\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbe5dc4c8cc06fd012a74c5e84772545}
+      \strng{fullhash}{cbe5dc4c8cc06fd012a74c5e84772545}
+      \strng{fullhashraw}{cbe5dc4c8cc06fd012a74c5e84772545}
+      \strng{bibnamehash}{cbe5dc4c8cc06fd012a74c5e84772545}
+      \strng{authorbibnamehash}{cbe5dc4c8cc06fd012a74c5e84772545}
+      \strng{authornamehash}{cbe5dc4c8cc06fd012a74c5e84772545}
+      \strng{authorfullhash}{cbe5dc4c8cc06fd012a74c5e84772545}
+      \strng{authorfullhashraw}{cbe5dc4c8cc06fd012a74c5e84772545}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Le 9~février 1949, un décret instaure le monopole public sur l’audiovisuel français. En 1952, Violette Franck, crée la première cinémathèque dans cette télévision naissante. Pour elle, il faut sauver les programmes télévisés, alors que les réalisateurs et les journalistes découpent à même la pellicule pour se resservir des images déjà diffusées. La profession de documentaliste audiovisuel, ainsi créée par une femme, demeure ensuite, pendant plusieurs décennies, majoritairement occupée par d’autres femmes. De 1952 à nos jours, ces professionnelles indexent, organisent et recherchent les archives des programmes diffusés, en vue de leur ré-usage dans de nouvelles œuvres de radio et de télévision. Cet article retrace l’histoire des interactions, outils et pratiques de cette profession, de 1952 à nos jours, marquée par son identité féminine au cœur d’un univers longtemps dominé par la présence des hommes.}
+      \field{issn}{1764-2507}
+      \field{journaltitle}{Le Temps des médias}
+      \field{langid}{french}
+      \field{month}{10}
+      \field{number}{2}
+      \field{shorttitle}{{Des « petites mains » féminines et anonymes}}
+      \field{title}{{Des « petites mains » féminines et anonymes : les documentalistes de l’audiovisuel public, de 1952 à aujourd’hui}}
+      \field{urlday}{4}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{volume}{n° 41}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{181\bibrangedash 203}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.3917/tdm.041.0181
+      \endverb
+      \verb{file}
+      \verb /home/melina/Zotero/storage/H9AZJPF9/Tible - 2023 - Des « petites mains » féminines et anonymes les documentalistes de l’audiovisuel public, de 1952 à.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cairn.info/revue-le-temps-des-medias-2023-2-page-181.htm?ref=doi
+      \endverb
+      \verb{url}
+      \verb https://www.cairn.info/revue-le-temps-des-medias-2023-2-page-181.htm?ref=doi
+      \endverb
+      \keyw{Classé,Lu,TD}
+    \endentry
+    \entry{varra2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7580b5289d483d8743d953d74943eb1}{%
+           family={Varra},
+           familyi={V\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éditions l'Harmattan INA}%
+      }
+      \strng{namehash}{a7580b5289d483d8743d953d74943eb1}
+      \strng{fullhash}{a7580b5289d483d8743d953d74943eb1}
+      \strng{fullhashraw}{a7580b5289d483d8743d953d74943eb1}
+      \strng{bibnamehash}{a7580b5289d483d8743d953d74943eb1}
+      \strng{authorbibnamehash}{a7580b5289d483d8743d953d74943eb1}
+      \strng{authornamehash}{a7580b5289d483d8743d953d74943eb1}
+      \strng{authorfullhash}{a7580b5289d483d8743d953d74943eb1}
+      \strng{authorfullhashraw}{a7580b5289d483d8743d953d74943eb1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cette histoire raconte comment les différentes missions de l'INA – patrimoniales, de création, de recherche et de formation – se sont adaptées, voire réinventées, dans ce contexte mouvant. Elle relate comment l'Institut a dû et a su se saisir des opportunités offertes par les nouvelles technologies, et comment ces dernières ont modifié les pratiques et les métiers liés à l'audiovisuel. À divers moments de son histoire, l'INA a anticipé de nombreuses mutations technologiques, en mettant au point de nombreux outils remarquables et en réalisant des opérations de grande envergure, comme le dépôt légal de la radio, de la télévision, du Web, et le Plan de sauvegarde et de numérisation des archives audiovisuelles (PSN). ~À travers le récit de ses quarante années passées à l'INA, et des principaux événements marquants ayant jalonné son histoire, Jean Varra nous expose avec rigueur, pédagogie et clarté les nombreuses transformations techniques et structurelles ayant contribué à faire de l'Institut national de l'audiovisuel une référence mondiale en matière de valorisation du patrimoine et de conservation des archives audiovisuelles}
+      \field{isbn}{978-2-336-40389-2}
+      \field{langid}{fre}
+      \field{series}{{Mémoires de télévision}}
+      \field{shorttitle}{{Créer, conserver, restaurer}}
+      \field{title}{{Créer, conserver, restaurer: 40 ans de techniques audiovisuelles à l'INA}}
+      \field{year}{2023}
+      \keyw{Classé,ina,Lu}
+    \endentry
+    \entry{webcorpora2017}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4962e33e7a765a7fd5922f994043c058}{%
+           family={{webcorpora}},
+           familyi={w\bibinitperiod}}}%
+      }
+      \strng{namehash}{4962e33e7a765a7fd5922f994043c058}
+      \strng{fullhash}{4962e33e7a765a7fd5922f994043c058}
+      \strng{fullhashraw}{4962e33e7a765a7fd5922f994043c058}
+      \strng{bibnamehash}{4962e33e7a765a7fd5922f994043c058}
+      \strng{authorbibnamehash}{4962e33e7a765a7fd5922f994043c058}
+      \strng{authornamehash}{4962e33e7a765a7fd5922f994043c058}
+      \strng{authorfullhash}{4962e33e7a765a7fd5922f994043c058}
+      \strng{authorfullhashraw}{4962e33e7a765a7fd5922f994043c058}
+      \field{sortinit}{w}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pendant 6 ans, les ateliers de recherche méthodologiques du Dépôt légal du web à l’Ina ont offert à la communauté universitaire et aux professionnels un lieu privilégié d’échange et de réflexion, destiné à accompagner les usages naissants des ressources en ligne à des fins scientifiques, journalistiques ou sociétales. Examinant simultanément les attentes, les pratiques effectives…}
+      \field{issn}{2608-1393}
+      \field{langid}{french}
+      \field{month}{7}
+      \field{title}{{L’expérience des ateliers du dépôt légal du web de l’Ina}}
+      \field{type}{{Hypothèses}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.58079/va8k
+      \endverb
+      \verb{file}
+      \verb /home/melina/Zotero/storage/VICNQCX6/302.html
+      \endverb
+      \verb{urlraw}
+      \verb https://webcorpora.hypotheses.org/302
+      \endverb
+      \verb{url}
+      \verb https://webcorpora.hypotheses.org/302
+      \endverb
+      \keyw{Classé,ina,Lu}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
